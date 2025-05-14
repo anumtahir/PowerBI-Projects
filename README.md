@@ -1,0 +1,1 @@
+Welcome to my Power BI projects portfolio! This repository showcases various data analysis and visualization projects created using Microsoft Power BI. Each project includes an overview, business problem, approach, and key insights, along with dashboards or reports.
